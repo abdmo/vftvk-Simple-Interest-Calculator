@@ -1,4 +1,26 @@
-body {background-color:tan;}
-h1{color:green;}
-
-
+body {
+    background-color: black;
+    font-family: arial;
+    color: white
+}
+h1 {
+    color: grey;
+    font-family: verdana
+}
+table {
+    max-width: 100%;
+    white-space: nowrap;
+    border-spacing: 0 10px;
+    margin-left: auto;
+    margin-right: auto
+}
+.maindiv {
+    background-color: white;
+    color: black;
+    padding: 20px;
+    border-radius: 25px;
+    display: inline-block
+}
+.highlighted_num {
+    background-color: #FFFF00
+}
